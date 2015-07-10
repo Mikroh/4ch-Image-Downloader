@@ -1,7 +1,9 @@
 # 4ch Image Downloader
 This documentation is meant for any unfortunate soul who stumbles upon this project. This application allows you to automatically download images from 4chan threads. I developed this application for myself, so the only boards that work are /b/, /g/, and /int/. If you want to add more boards, see line 61 on <em>MainWindow.cs</em>.
 
-I <em>might</em> include some binaries in the future. Until then, you'll have to compile the application yourself using Mono.
+I <em>might</em> include some Windows binaries in the future. Until then, you'll have to compile the application yourself using Mono.
+
+Linux binaries can be found in the <em>Bin</em> folder. They require <em>Mono</em> and <em>Gtk#</em> to run. Use these at your own risk.
 
 One <strong>really</strong> important thing to note, is that the application will be unresponsive while it is downloading images. It will appear to have crashed, but it hasn't. Just give it time.
 
