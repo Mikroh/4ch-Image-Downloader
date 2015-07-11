@@ -1,0 +1,7 @@
+/home/mikael/Documents/Projects/ImageChan/ImageChan/ImageChan/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mikael/Documents/Projects/ImageChan/ImageChan/ImageChan/obj/x86/Debug/ImageChan.gtk-gui.gui.stetic
+/home/mikael/Documents/Projects/ImageChan/ImageChan/ImageChan/bin/Debug/ImageChan.exe.mdb
+/home/mikael/Documents/Projects/ImageChan/ImageChan/ImageChan/bin/Debug/ImageChan.exe
+/home/mikael/Documents/Projects/ImageChan/ImageChan/ImageChan/obj/x86/Debug/ImageChan.exe
+/home/mikael/Documents/Projects/ImageChan/ImageChan/ImageChan/obj/x86/Debug/ImageChan.exe.mdb
+/home/mikael/Documents/Projects/ImageChan/ImageChan/ImageChan/bin/Debug/Newtonsoft.Json.dll
