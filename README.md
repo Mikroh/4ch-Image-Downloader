@@ -19,4 +19,4 @@ The application works, but it's certainly not polished. Therefore, I recommend t
 
 This application is licensed under <em>The Unlicense</em>. This means that you can do whatever the hell you want with my code. See <em>LICENSE</em> for more details.
 
-This application uses Json.NET, Copyright (c) 2007 James Newton-King. Json.NET is licensed under the <a href="https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md">MIT License</a>, so keep that in mind if you plan to use Json.NET yourself.
+This application uses Json.NET by James Newton-King. Json.NET is licensed under the <a href="https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md">MIT License</a>, so keep that in mind if you plan to use Json.NET yourself.
